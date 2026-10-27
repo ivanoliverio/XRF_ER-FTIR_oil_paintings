@@ -1,0 +1,478 @@
+{
+  "Red Ochre": {
+    "components": [
+      { "name": "hematite", "formula": "Fe2O3", "wt_percent_min": 20, "wt_percent_max": 80 },
+      { "name": "goethite", "formula": "FeO(OH)", "wt_percent_min": 0, "wt_percent_max": 15 },
+      { "name": "quartz", "formula": "SiO2", "wt_percent_min": 5, "wt_percent_max": 40 },
+      { "name": "kaolinite", "formula": "Al2Si2O5(OH)4", "wt_percent_min": 5, "wt_percent_max": 20 },
+      { "name": "illite", "formula": "K0.7Al2(Al,Si)4O10(OH)2", "wt_percent_min": 0, "wt_percent_max": 15 },
+      { "name": "calcite", "formula": "CaCO3", "wt_percent_min": 0, "wt_percent_max": 5 },
+      { "name": "gypsum", "formula": "CaSO4·2H2O", "wt_percent_min": 0, "wt_percent_max": 10 }
+    ],
+    "elements": ["Fe", "O", "Si", "Al", "K", "Ca", "C", "S", "H", "Ti"]
+  },
+
+  "Charcoal": {
+    "components": [
+      { "name": "carbon", "formula": "C", "wt_percent_min": 70, "wt_percent_max": 95 },
+      { "name": "silica (ash)", "formula": "SiO2", "wt_percent_min": 0, "wt_percent_max": 10 },
+      { "name": "calcite (ash)", "formula": "CaCO3", "wt_percent_min": 0, "wt_percent_max": 5 },
+      { "name": "potassium carbonate (ash)", "formula": "K2CO3", "wt_percent_min": 0, "wt_percent_max": 5 }
+    ],
+    "elements": ["C", "Si", "O", "Ca", "K"]
+  },
+
+  "Titanium White": {
+    "components": [
+      { "name": "rutile", "formula": "TiO2", "wt_percent_min": 60, "wt_percent_max": 90 },
+      { "name": "silica", "formula": "SiO2", "wt_percent_min": 0, "wt_percent_max": 5.5 },
+      { "name": "alumina", "formula": "Al2O3", "wt_percent_min": 0, "wt_percent_max": 3 }
+    ],
+    "elements": ["Ti", "O", "Si", "Al", "Fe"]
+  },
+
+  "Yellow Ochre": {
+    "components": [
+      { "name": "goethite", "formula": "FeO(OH)", "wt_percent_min": 10, "wt_percent_max": 60 },
+      { "name": "quartz", "formula": "SiO2", "wt_percent_min": 10, "wt_percent_max": 40 },
+      { "name": "kaolinite", "formula": "Al2Si2O5(OH)4", "wt_percent_min": 5, "wt_percent_max": 20 },
+      { "name": "illite", "formula": "K0.7Al2(Al,Si)4O10(OH)2", "wt_percent_min": 0, "wt_percent_max": 15 },
+      { "name": "calcite", "formula": "CaCO3", "wt_percent_min": 0, "wt_percent_max": 10 },
+      { "name": "gypsum", "formula": "CaSO4·2H2O", "wt_percent_min": 0, "wt_percent_max": 5 }
+    ],
+    "elements": ["Fe", "O", "Si", "Al", "K", "Ca", "C", "S", "H"]
+  },
+
+  "Burnt Sienna": {
+    "components": [
+      { "name": "hematite", "formula": "Fe2O3", "wt_percent_min": 20, "wt_percent_max": 70 },
+      { "name": "manganese dioxide", "formula": "MnO2", "wt_percent_min": 3, "wt_percent_max": 15 },
+      { "name": "quartz", "formula": "SiO2", "wt_percent_min": 10, "wt_percent_max": 40 },
+      { "name": "kaolinite", "formula": "Al2Si2O5(OH)4", "wt_percent_min": 5, "wt_percent_max": 20 },
+      { "name": "calcite", "formula": "CaCO3", "wt_percent_min": 0, "wt_percent_max": 10 },
+      { "name": "gypsum", "formula": "CaSO4·2H2O", "wt_percent_min": 0, "wt_percent_max": 5 }
+    ],
+    "elements": ["Fe", "O", "Mn", "Si", "Al", "Ca", "C", "S", "H", "K"]
+  },
+
+  "Raw Sienna": {
+    "components": [
+      { "name": "goethite", "formula": "FeO(OH)", "wt_percent_min": 10, "wt_percent_max": 40 },
+      { "name": "manganese oxide", "formula": "MnO", "wt_percent_min": 0, "wt_percent_max": 5 },
+      { "name": "manganese dioxide", "formula": "MnO2", "wt_percent_min": 2, "wt_percent_max": 10 },
+      { "name": "quartz", "formula": "SiO2", "wt_percent_min": 10, "wt_percent_max": 40 },
+      { "name": "kaolinite", "formula": "Al2Si2O5(OH)4", "wt_percent_min": 5, "wt_percent_max": 20 },
+      { "name": "illite", "formula": "K0.7Al2(Al,Si)4O10(OH)2", "wt_percent_min": 0, "wt_percent_max": 15 },
+      { "name": "calcite", "formula": "CaCO3", "wt_percent_min": 0, "wt_percent_max": 40 },
+      { "name": "gypsum", "formula": "CaSO4·2H2O", "wt_percent_min": 0, "wt_percent_max": 10 }
+    ],
+    "elements": ["Fe", "O", "Mn", "Si", "Al", "K", "Ca", "C", "S", "H", "Mg", "Na", "Ti"]
+  },
+
+  "Verona Green Earth": {
+    "components": [
+      { "name": "celadonite", "formula": "K(Mg,Fe2+)(Fe3+,Al)(Si4O10)(OH)2", "wt_percent_min": 40, "wt_percent_max": 70 },
+      { "name": "glauconite", "formula": "(K,Na)(Fe3+,Al,Mg)2(Si4O10)(OH)2", "wt_percent_min": 10, "wt_percent_max": 40 },
+      { "name": "calcite", "formula": "CaCO3", "wt_percent_min": 0, "wt_percent_max": 40 },
+      { "name": "gypsum", "formula": "CaSO4·2H2O", "wt_percent_min": 0, "wt_percent_max": 5 }
+    ],
+    "elements": ["K", "Na", "Mg", "Fe", "Al", "Si", "O", "H", "Ca", "C", "S"]
+  },
+
+
+  "Raw Umber": {
+    "components": [
+      { "name": "goethite", "formula": "FeO(OH)", "wt_percent_min": 10, "wt_percent_max": 30 },
+      { "name": "manganese dioxide", "formula": "MnO2", "wt_percent_min": 5, "wt_percent_max": 20 },
+      { "name": "quartz", "formula": "SiO2", "wt_percent_min": 15, "wt_percent_max": 40 },
+      { "name": "kaolinite", "formula": "Al2Si2O5(OH)4", "wt_percent_min": 5, "wt_percent_max": 20 },
+      { "name": "illite", "formula": "K0.7Al2(Al,Si)4O10(OH)2", "wt_percent_min": 0, "wt_percent_max": 15 },
+      { "name": "calcite", "formula": "CaCO3", "wt_percent_min": 0, "wt_percent_max": 10 },
+      { "name": "gypsum", "formula": "CaSO4·2H2O", "wt_percent_min": 0, "wt_percent_max": 5 }
+    ],
+    "elements": ["Fe", "O", "Mn", "Si", "Al", "K", "Ca", "C", "S", "H", "Mg", "Na", "Ti"]
+  },
+
+  "Naples Yellow": {
+    "components": [
+      { "name": "cadmium sulfide", "formula": "Pb2Sb2O7", "wt_percent_min": 100, "wt_percent_max": 100 }
+    ],
+    "elements": ["Pb", "Sb", "O"]
+  },
+
+  "Bone Black": {
+    "components": [
+      { "name": "tricalcium phosphate", "formula": "Ca3(PO4)2", "wt_percent_min": 70, "wt_percent_max": 90 },
+      { "name": "calcite", "formula": "CaCO3", "wt_percent_min": 5, "wt_percent_max": 15 },
+      { "name": "carbon", "formula": "C", "wt_percent_min": 5, "wt_percent_max": 15 },
+      {
+        "name": "iron(III) oxide effective impurity",
+        "formula": "Fe2O3",
+        "wt_percent_min": 0,
+        "wt_percent_max": 3
+      },
+      { "name": "quartz", "formula": "SiO2", "wt_percent_min": 0, "wt_percent_max": 6 }
+    ],
+    "elements": ["Ca", "P", "O", "C", "Mg", "Na", "K"]
+  },
+
+  "Madder Lake": {
+    "components": [
+      {
+        "name": "anthraquinone dye / organic matrix",
+        "formula": "C14H8O4",
+        "wt_percent_min": 90,
+        "wt_percent_max": 99
+      },
+      {
+        "name": "calcium carbonate effective substrate",
+        "formula": "CaCO3",
+        "wt_percent_min": 0.5,
+        "wt_percent_max": 5
+      },
+      {
+        "name": "sulfate effective component",
+        "formula": "SO3",
+        "wt_percent_min": 0.2,
+        "wt_percent_max": 4
+      },
+      {
+        "name": "potassium oxide effective impurity",
+        "formula": "K2O",
+        "wt_percent_min": 0,
+        "wt_percent_max": 1
+      },
+      {
+        "name": "iron(III) oxide effective impurity",
+        "formula": "Fe2O3",
+        "wt_percent_min": 0,
+        "wt_percent_max": 1
+      },
+      { "name": "quartz", "formula": "SiO2", "wt_percent_min": 0, "wt_percent_max": 5 },
+      { "name": "kaolinite", "formula": "Al2Si2O5(OH)4", "wt_percent_min": 0, "wt_percent_max": 8 }
+    ],
+    "elements": ["C", "H", "O", "Ca", "S", "K", "Fe"]
+  },
+
+  "Cadmium Yellow": {
+    "components": [
+      { "name": "cadmium sulfide", "formula": "CdS", "wt_percent_min": 70, "wt_percent_max": 100 },
+      { "name": "zinc sulfide", "formula": "ZnS", "wt_percent_min": 2, "wt_percent_max": 30 },
+      { "name": "barium sulfate", "formula": "BaSO4", "wt_percent_min": 0, "wt_percent_max": 5 }
+    ],
+    "elements": ["Cd", "S", "Zn", "Ba", "O"]
+  },
+
+  "San Giovanni white": {
+    "components": [
+      { "name": "calcite", "formula": "CaCO3", "wt_percent_min": 85, "wt_percent_max": 98 },
+      { "name": "calcium hydroxide", "formula": "Ca(OH)2", "wt_percent_min": 1, "wt_percent_max": 10 },
+      { "name": "silica/argillaceous impurities", "formula": "Al2Si2O5(OH)4", "wt_percent_min": 0, "wt_percent_max": 5 }
+    ],
+    "elements": ["Ca", "C", "O", "H", "Si", "Al", "Mg", "Na", "K"]
+  },
+
+  "Zinc White": {
+      "components": [
+          {
+              "name": "zinc oxide",
+              "formula": "ZnO",
+              "wt_percent_min": 75,
+              "wt_percent_max": 100
+          },
+          {
+              "name": "iron oxide",
+              "formula": "Fe2O3",
+              "wt_percent_min": 0,
+              "wt_percent_max": 8
+          },
+          {
+              "name": "calcite",
+              "formula": "CaCO3",
+              "wt_percent_min": 0,
+              "wt_percent_max": 8
+          }
+      ],
+      "elements": [
+          "Zn", "O", "C", "H",
+          "Si", "Al", "Fe", "Ca"
+      ]
+  },
+
+  "Orpiment": {
+    "components": [
+      { "name": "orpiment", "formula": "As2S3", "wt_percent_min": 95, "wt_percent_max": 100 }
+    ],
+    "elements": ["As", "S"]
+  },
+
+  "Lead Tin Yellow II": {
+    "components": [
+      { "name": "lead-tin yellow type II", "formula": "PbSnO3", "wt_percent_min": 60, "wt_percent_max": 90 },
+      { "name": "lead oxide", "formula": "PbO", "wt_percent_min": 5, "wt_percent_max": 20 },
+      { "name": "silica", "formula": "SiO2", "wt_percent_min": 0, "wt_percent_max": 15 }
+    ],
+    "elements": ["Pb", "Sn", "Si", "O"]
+  },
+
+  "Vermilion": {
+    "components": [
+      { "name": "cinnabar", "formula": "HgS", "wt_percent_min": 95, "wt_percent_max": 100 }
+    ],
+    "elements": ["Hg", "S"]
+  },
+
+  "Lamp Black": {
+    "components": [
+      { "name": "carbon", "formula": "C", "wt_percent_min": 95, "wt_percent_max": 99 }
+    ],
+    "elements": ["C"]
+  },
+
+  "Burnt Umber": {
+    "components": [
+      { "name": "hematite", "formula": "Fe2O3", "wt_percent_min": 20, "wt_percent_max": 50 },
+      { "name": "manganese dioxide", "formula": "MnO2", "wt_percent_min": 5, "wt_percent_max": 20 },
+      { "name": "quartz", "formula": "SiO2", "wt_percent_min": 10, "wt_percent_max": 40 },
+      { "name": "kaolinite", "formula": "Al2Si2O5(OH)4", "wt_percent_min": 5, "wt_percent_max": 15 },
+      { "name": "calcite", "formula": "CaCO3", "wt_percent_min": 0, "wt_percent_max": 35 },
+      { "name": "gypsum", "formula": "CaSO4·2H2O", "wt_percent_min": 0, "wt_percent_max": 20 }
+    ],
+    "elements": ["Fe", "O", "Mn", "Si", "Al", "Ca", "C", "S", "H", "K", "Na", "Mg", "Ti"]
+  },
+
+  "Indigo": {
+    "components": [
+      {
+        "name": "indigotin / organic matrix",
+        "formula": "C16H10N2O2",
+        "wt_percent_min": 85,
+        "wt_percent_max": 97
+      },
+      {
+        "name": "iron(III) oxide effective impurity",
+        "formula": "Fe2O3",
+        "wt_percent_min": 0,
+        "wt_percent_max": 4
+      },
+      {
+        "name": "calcium carbonate effective impurity",
+        "formula": "CaCO3",
+        "wt_percent_min": 1,
+        "wt_percent_max": 10
+      },
+      {
+        "name": "potassium oxide effective impurity",
+        "formula": "K2O",
+        "wt_percent_min": 0,
+        "wt_percent_max": 2
+      },
+      { "name": "quartz", "formula": "SiO2", "wt_percent_min": 0, "wt_percent_max": 6 },
+      { "name": "kaolinite", "formula": "Al2Si2O5(OH)4", "wt_percent_min": 0, "wt_percent_max": 8 },
+      {
+        "name": "iron(III) oxide effective impurity",
+        "formula": "Fe2O3",
+        "wt_percent_min": 0,
+        "wt_percent_max": 5
+      }
+    ],
+    "elements": ["C", "H", "N", "O", "Fe", "Ca", "K"]
+  },
+
+  "Azurite": {
+      "components": [
+          {
+              "name": "azurite",
+              "formula": "Cu3(CO3)2(OH)2",
+              "wt_percent_min": 45,
+              "wt_percent_max": 70
+          },
+          {
+              "name": "malachite",
+              "formula": "Cu2CO3(OH)2",
+              "wt_percent_min": 0,
+              "wt_percent_max": 5
+          },
+          {
+              "name": "quartz",
+              "formula": "SiO2",
+              "wt_percent_min": 15,
+              "wt_percent_max": 35
+          },
+          {
+              "name": "kaolinite",
+              "formula": "Al2Si2O5(OH)4",
+              "wt_percent_min": 8,
+              "wt_percent_max": 20
+          },
+          {
+              "name": "K2O",
+              "formula": "K2O",
+              "wt_percent_min": 0,
+              "wt_percent_max": 5
+          },
+          {
+              "name": "calcite",
+              "formula": "CaCO3",
+              "wt_percent_min": 0,
+              "wt_percent_max": 8
+          },
+          {
+              "name": "iron oxide",
+              "formula": "Fe2O3",
+              "wt_percent_min": 0,
+              "wt_percent_max": 8
+          },
+          {
+              "name": "titanium dioxide",
+              "formula": "TiO2",
+              "wt_percent_min": 0,
+              "wt_percent_max": 2
+          },
+          {
+              "name": "manganese oxide",
+              "formula": "MnO2",
+              "wt_percent_min": 0,
+              "wt_percent_max": 5
+          }
+      ],
+      "elements": [
+          "Cu", "C", "O", "H",
+          "Al", "Si", "K", "Ca", "Ti", "Mn", "Fe"
+      ]
+  },
+      
+
+  "Verdigris": {
+    "components": [
+      { "name": "copper(II) acetate hydrate", "formula": "Cu(CH3COO)2·nH2O", "wt_percent_min": 40, "wt_percent_max": 80 },
+      { "name": "basic copper acetate", "formula": "Cu2(OH)3(CH3COO)", "wt_percent_min": 10, "wt_percent_max": 40 },
+      { "name": "copper(II) hydroxide", "formula": "Cu(OH)2", "wt_percent_min": 0, "wt_percent_max": 20 }
+    ],
+    "elements": ["Cu", "C", "H", "O"]
+  },
+
+  "Malachite": {
+      "components": [
+          {
+              "name": "malachite",
+              "formula": "Cu2CO3(OH)2",
+              "wt_percent_min": 70,
+              "wt_percent_max": 92
+          },
+          {
+              "name": "azurite",
+              "formula": "Cu3(CO3)2(OH)2",
+              "wt_percent_min": 0,
+              "wt_percent_max": 5
+          },
+          {
+              "name": "quartz",
+              "formula": "SiO2",
+              "wt_percent_min": 2,
+              "wt_percent_max": 12
+          },
+          {
+              "name": "kaolinite",
+              "formula": "Al2Si2O5(OH)4",
+              "wt_percent_min": 1,
+              "wt_percent_max": 8
+          },
+          {
+              "name": "calcite",
+              "formula": "CaCO3",
+              "wt_percent_min": 0,
+              "wt_percent_max": 8
+          },
+          {
+              "name": "iron oxide",
+              "formula": "Fe2O3",
+              "wt_percent_min": 0,
+              "wt_percent_max": 8
+          },
+          {
+              "name": "titanium dioxide",
+              "formula": "TiO2",
+              "wt_percent_min": 0,
+              "wt_percent_max": 2
+          },
+          {
+              "name": "cobalt oxide",
+              "formula": "CoO",
+              "wt_percent_min": 0,
+              "wt_percent_max": 1
+          }
+      ],
+      "elements": [
+          "Cu", "C", "O", "H",
+          "Al", "Si", "Ca", "Ti", "Fe", "Co"
+      ]
+  
+},
+
+  "Lead White": {
+    "components": [
+      { "name": "basic lead carbonate", "formula": "2PbCO3·Pb(OH)2", "wt_percent_min": 90, "wt_percent_max": 100 },
+      { "name": "lead oxide", "formula": "PbO", "wt_percent_min": 0, "wt_percent_max": 3 }
+    ],
+    "elements": ["Pb", "C", "O", "H"]
+  },
+
+  "Chrome Green": {
+      "components": [
+          {
+              "name": "chromium oxide",
+              "formula": "Cr2O3",
+              "wt_percent_min": 75,
+              "wt_percent_max": 100
+          },
+          {
+              "name": "iron oxide",
+              "formula": "Fe2O3",
+              "wt_percent_min": 0,
+              "wt_percent_max": 8
+          },
+          {
+              "name": "calcite",
+              "formula": "CaCO3",
+              "wt_percent_min": 0,
+              "wt_percent_max": 8
+          }
+      ],
+      "elements": [
+          "Cr", "O", "C", "H",
+          "Si", "Al", "Fe", "Ca"
+      ]
+  },
+
+  "Smalt": {
+  "components": [
+    {
+      "name": "silica",
+      "formula": "SiO2",
+      "wt_percent_min": 65,
+      "wt_percent_max": 65
+    },
+    {
+      "name": "potassium oxide",
+      "formula": "K2O",
+      "wt_percent_min": 15,
+      "wt_percent_max": 15
+    },
+    {
+      "name": "arsenic(III) oxide",
+      "formula": "As2O3",
+      "wt_percent_min": 5,
+      "wt_percent_max": 5
+    },
+    {
+      "name": "cobalt(II) oxide",
+      "formula": "CoO",
+      "wt_percent_min": 10,
+      "wt_percent_max": 10
+    }
+  ],
+  "elements": ["Si", "O", "K", "As", "Co"]
+}
+
+}
