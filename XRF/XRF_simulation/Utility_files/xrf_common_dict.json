@@ -1,0 +1,2058 @@
+{ 
+  "As": {
+    "efficiency": [
+      {
+        "Efficiency": 3.52e-41,
+        "Energy_keV": 0.0387,
+        "Line": "Mz",
+        "Z": 33
+      },
+      {
+        "Efficiency": 0.284,
+        "Energy_keV": 1.1189,
+        "Line": "Ll",
+        "Z": 33
+      },
+      {
+        "Efficiency": 0.356,
+        "Energy_keV": 1.1544,
+        "Line": "Ln",
+        "Z": 33
+      },
+      {
+        "Efficiency": 0.43,
+        "Energy_keV": 1.2819,
+        "Line": "La2",
+        "Z": 33
+      },
+      {
+        "Efficiency": 0.43,
+        "Energy_keV": 1.2819,
+        "Line": "La1",
+        "Z": 33
+      },
+      {
+        "Efficiency": 0.501,
+        "Energy_keV": 1.3156,
+        "Line": "Lb6",
+        "Z": 33
+      },
+      {
+        "Efficiency": 0.501,
+        "Energy_keV": 1.3174,
+        "Line": "Lb1",
+        "Z": 33
+      },
+      {
+        "Efficiency": 0.501,
+        "Energy_keV": 1.3808,
+        "Line": "Lb4",
+        "Z": 33
+      },
+      {
+        "Efficiency": 0.501,
+        "Energy_keV": 1.3858,
+        "Line": "Lb3",
+        "Z": 33
+      },
+      {
+        "Efficiency": 0.629,
+        "Energy_keV": 1.524,
+        "Line": "Lg2",
+        "Z": 33
+      },
+      {
+        "Efficiency": 0.629,
+        "Energy_keV": 1.524,
+        "Line": "Lg3",
+        "Z": 33
+      },
+      {
+        "Efficiency": 0.954,
+        "Energy_keV": 10.34,
+        "Line": "Ka3",
+        "Z": 33
+      },
+      {
+        "Efficiency": 0.954,
+        "Energy_keV": 10.5079,
+        "Line": "Ka2",
+        "Z": 33
+      },
+      {
+        "Efficiency": 0.954,
+        "Energy_keV": 10.5434,
+        "Line": "Ka1",
+        "Z": 33
+      },
+      {
+        "Efficiency": 0.921,
+        "Energy_keV": 11.7208,
+        "Line": "Kb3",
+        "Z": 33
+      },
+      {
+        "Efficiency": 0.921,
+        "Energy_keV": 11.7258,
+        "Line": "Kb1",
+        "Z": 33
+      },
+      {
+        "Efficiency": 0.876,
+        "Energy_keV": 11.8253,
+        "Line": "Kb5",
+        "Z": 33
+      },
+      {
+        "Efficiency": 0.876,
+        "Energy_keV": 11.864,
+        "Line": "Kb2",
+        "Z": 33
+      }
+    ],
+    "line_widths": {
+      "Ka1": 3.03,
+      "Kb1": 4.34
+    }
+  },
+  "Au": {
+    "efficiency": [
+      {
+        "Efficiency": 0.684,
+        "Energy_keV": 1.6483,
+        "Line": "Mz",
+        "Z": 79
+      },
+      {
+        "Efficiency": 0.776,
+        "Energy_keV": 2.1184,
+        "Line": "Ma",
+        "Z": 79
+      },
+      {
+        "Efficiency": 0.776,
+        "Energy_keV": 2.2034,
+        "Line": "Mb",
+        "Z": 79
+      },
+      {
+        "Efficiency": 0.843,
+        "Energy_keV": 2.4079,
+        "Line": "Mg",
+        "Z": 79
+      },
+      {
+        "Efficiency": 0.992,
+        "Energy_keV": 8.494,
+        "Line": "Ll",
+        "Z": 79
+      },
+      {
+        "Efficiency": 0.987,
+        "Energy_keV": 9.628,
+        "Line": "La2",
+        "Z": 79
+      },
+      {
+        "Efficiency": 0.975,
+        "Energy_keV": 9.713,
+        "Line": "La1",
+        "Z": 79
+      },
+      {
+        "Efficiency": 0.954,
+        "Energy_keV": 10.309,
+        "Line": "Ln",
+        "Z": 79
+      },
+      {
+        "Efficiency": 0.921,
+        "Energy_keV": 11.1569,
+        "Line": "Lb6",
+        "Z": 79
+      },
+      {
+        "Efficiency": 0.921,
+        "Energy_keV": 11.205,
+        "Line": "Lb4",
+        "Z": 79
+      },
+      {
+        "Efficiency": 0.921,
+        "Energy_keV": 11.443,
+        "Line": "Lb1",
+        "Z": 79
+      },
+      {
+        "Efficiency": 0.921,
+        "Energy_keV": 11.5658,
+        "Line": "Lb2,15",
+        "Z": 79
+      },
+      {
+        "Efficiency": 0.921,
+        "Energy_keV": 11.61,
+        "Line": "Lb3",
+        "Z": 79
+      },
+      {
+        "Efficiency": 0.876,
+        "Energy_keV": 11.914,
+        "Line": "Lb5",
+        "Z": 79
+      },
+      {
+        "Efficiency": 0.82,
+        "Energy_keV": 13.3808,
+        "Line": "Lg1",
+        "Z": 79
+      },
+      {
+        "Efficiency": 0.756,
+        "Energy_keV": 13.7103,
+        "Line": "Lg2",
+        "Z": 79
+      },
+      {
+        "Efficiency": 0.756,
+        "Energy_keV": 13.729,
+        "Line": "Lg6",
+        "Z": 79
+      },
+      {
+        "Efficiency": 0.756,
+        "Energy_keV": 13.8067,
+        "Line": "Lg3",
+        "Z": 79
+      },
+      {
+        "Efficiency": 0.0309,
+        "Energy_keV": 66.372,
+        "Line": "Ka3",
+        "Z": 79
+      },
+      {
+        "Efficiency": 0.0283,
+        "Energy_keV": 66.991,
+        "Line": "Ka2",
+        "Z": 79
+      },
+      {
+        "Efficiency": 0.0283,
+        "Energy_keV": 68.806,
+        "Line": "Ka1",
+        "Z": 79
+      },
+      {
+        "Efficiency": 0.0242,
+        "Energy_keV": 77.577,
+        "Line": "Kb3",
+        "Z": 79
+      },
+      {
+        "Efficiency": 0.0242,
+        "Energy_keV": 77.982,
+        "Line": "Kb1",
+        "Z": 79
+      },
+      {
+        "Efficiency": 0.0242,
+        "Energy_keV": 78.434,
+        "Line": "Kb5",
+        "Z": 79
+      },
+      {
+        "Efficiency": 0.0242,
+        "Energy_keV": 80.0823,
+        "Line": "Kb2",
+        "Z": 79
+      },
+      {
+        "Efficiency": 0.0242,
+        "Energy_keV": 80.3718,
+        "Line": "Kb4",
+        "Z": 79
+      }
+    ],
+    "line_widths": {
+      "Ka1": 57.63999999999999,
+      "Kb1": 60.6
+    }
+  },
+  "Ca": {
+    "efficiency": [
+      {
+        "Efficiency": 4.19e-19,
+        "Energy_keV": 0.3019,
+        "Line": "Ll",
+        "Z": 20
+      },
+      {
+        "Efficiency": 4.19e-19,
+        "Energy_keV": 0.3054,
+        "Line": "Ln",
+        "Z": 20
+      },
+      {
+        "Efficiency": 6.66e-09,
+        "Energy_keV": 0.413,
+        "Line": "Lb4",
+        "Z": 20
+      },
+      {
+        "Efficiency": 6.66e-09,
+        "Energy_keV": 0.413,
+        "Line": "Lb3",
+        "Z": 20
+      },
+      {
+        "Efficiency": 0.948,
+        "Energy_keV": 3.6001,
+        "Line": "Ka3",
+        "Z": 20
+      },
+      {
+        "Efficiency": 0.948,
+        "Energy_keV": 3.6888,
+        "Line": "Ka2",
+        "Z": 20
+      },
+      {
+        "Efficiency": 0.948,
+        "Energy_keV": 3.6923,
+        "Line": "Ka1",
+        "Z": 20
+      },
+      {
+        "Efficiency": 0.957,
+        "Energy_keV": 4.0131,
+        "Line": "Kb3",
+        "Z": 20
+      },
+      {
+        "Efficiency": 0.957,
+        "Energy_keV": 4.0131,
+        "Line": "Kb1",
+        "Z": 20
+      }
+    ],
+    "line_widths": {
+      "Ka1": 0.98,
+      "Kb1": 1.97
+    }
+  },
+  "Cd": {
+    "efficiency": [
+      {
+        "Efficiency": 1e-13,
+        "Energy_keV": 0.348,
+        "Line": "Mz",
+        "Z": 48
+      },
+      {
+        "Efficiency": 0.000896,
+        "Energy_keV": 0.6077,
+        "Line": "Mg",
+        "Z": 48
+      },
+      {
+        "Efficiency": 0.89,
+        "Energy_keV": 2.766,
+        "Line": "Ll",
+        "Z": 48
+      },
+      {
+        "Efficiency": 0.908,
+        "Energy_keV": 2.955,
+        "Line": "Ln",
+        "Z": 48
+      },
+      {
+        "Efficiency": 0.924,
+        "Energy_keV": 3.1261,
+        "Line": "La2",
+        "Z": 48
+      },
+      {
+        "Efficiency": 0.924,
+        "Energy_keV": 3.1328,
+        "Line": "La1",
+        "Z": 48
+      },
+      {
+        "Efficiency": 0.924,
+        "Energy_keV": 3.3151,
+        "Line": "Lb1",
+        "Z": 48
+      },
+      {
+        "Efficiency": 0.937,
+        "Energy_keV": 3.3654,
+        "Line": "Lb4",
+        "Z": 48
+      },
+      {
+        "Efficiency": 0.937,
+        "Energy_keV": 3.3996,
+        "Line": "Lb3",
+        "Z": 48
+      },
+      {
+        "Efficiency": 0.937,
+        "Energy_keV": 3.4282,
+        "Line": "Lb6",
+        "Z": 48
+      },
+      {
+        "Efficiency": 0.937,
+        "Energy_keV": 3.5263,
+        "Line": "Lb2,15",
+        "Z": 48
+      },
+      {
+        "Efficiency": 0.948,
+        "Energy_keV": 3.7153,
+        "Line": "Lg1",
+        "Z": 48
+      },
+      {
+        "Efficiency": 0.957,
+        "Energy_keV": 3.9541,
+        "Line": "Lg2",
+        "Z": 48
+      },
+      {
+        "Efficiency": 0.957,
+        "Energy_keV": 3.9541,
+        "Line": "Lg3",
+        "Z": 48
+      },
+      {
+        "Efficiency": 0.308,
+        "Energy_keV": 22.693,
+        "Line": "Ka3",
+        "Z": 48
+      },
+      {
+        "Efficiency": 0.308,
+        "Energy_keV": 22.984,
+        "Line": "Ka2",
+        "Z": 48
+      },
+      {
+        "Efficiency": 0.263,
+        "Energy_keV": 23.173,
+        "Line": "Ka1",
+        "Z": 48
+      },
+      {
+        "Efficiency": 0.224,
+        "Energy_keV": 26.0584,
+        "Line": "Kb3",
+        "Z": 48
+      },
+      {
+        "Efficiency": 0.224,
+        "Energy_keV": 26.0926,
+        "Line": "Kb1",
+        "Z": 48
+      },
+      {
+        "Efficiency": 0.224,
+        "Energy_keV": 26.2991,
+        "Line": "Kb5",
+        "Z": 48
+      },
+      {
+        "Efficiency": 0.191,
+        "Energy_keV": 26.6471,
+        "Line": "Kb2",
+        "Z": 48
+      },
+      {
+        "Efficiency": 0.191,
+        "Energy_keV": 26.6993,
+        "Line": "Kb4",
+        "Z": 48
+      }
+    ],
+    "line_widths": {
+      "Ka1": 9.559999999999999,
+      "Kb1": 10.120000000000001,
+      "La1": 2.59,
+      "Lb1": 2.76,
+      "Lg1": 0.0
+    }
+  },
+  "Co": {
+    "efficiency": [
+      {
+        "Efficiency": 0.00806,
+        "Energy_keV": 0.6771,
+        "Line": "Ll",
+        "Z": 27
+      },
+      {
+        "Efficiency": 0.00806,
+        "Energy_keV": 0.6922,
+        "Line": "Ln",
+        "Z": 27
+      },
+      {
+        "Efficiency": 0.0369,
+        "Energy_keV": 0.7751,
+        "Line": "La2",
+        "Z": 27
+      },
+      {
+        "Efficiency": 0.0369,
+        "Energy_keV": 0.7751,
+        "Line": "La1",
+        "Z": 27
+      },
+      {
+        "Efficiency": 0.0369,
+        "Energy_keV": 0.7902,
+        "Line": "Lb1",
+        "Z": 27
+      },
+      {
+        "Efficiency": 0.0653,
+        "Energy_keV": 0.8652,
+        "Line": "Lb3",
+        "Z": 27
+      },
+      {
+        "Efficiency": 0.0653,
+        "Energy_keV": 0.8662,
+        "Line": "Lb4",
+        "Z": 27
+      },
+      {
+        "Efficiency": 0.991,
+        "Energy_keV": 6.7839,
+        "Line": "Ka3",
+        "Z": 27
+      },
+      {
+        "Efficiency": 0.991,
+        "Energy_keV": 6.9158,
+        "Line": "Ka2",
+        "Z": 27
+      },
+      {
+        "Efficiency": 0.992,
+        "Energy_keV": 6.9309,
+        "Line": "Ka1",
+        "Z": 27
+      },
+      {
+        "Efficiency": 0.993,
+        "Energy_keV": 7.6491,
+        "Line": "Kb1",
+        "Z": 27
+      },
+      {
+        "Efficiency": 0.993,
+        "Energy_keV": 7.6501,
+        "Line": "Kb3",
+        "Z": 27
+      },
+      {
+        "Efficiency": 0.993,
+        "Energy_keV": 7.706,
+        "Line": "Kb5",
+        "Z": 27
+      }
+    ],
+    "line_widths": {
+      "Ka1": 1.75,
+      "Kb1": 2.5500000000000003
+    }
+  },
+  "Cr": {
+    "efficiency": [
+      {
+        "Efficiency": 4.93e-06,
+        "Energy_keV": 0.5,
+        "Line": "Ll",
+        "Z": 24
+      },
+      {
+        "Efficiency": 4.93e-06,
+        "Energy_keV": 0.5097,
+        "Line": "Ln",
+        "Z": 24
+      },
+      {
+        "Efficiency": 0.000213,
+        "Energy_keV": 0.5721,
+        "Line": "La2",
+        "Z": 24
+      },
+      {
+        "Efficiency": 0.000213,
+        "Energy_keV": 0.5721,
+        "Line": "La1",
+        "Z": 24
+      },
+      {
+        "Efficiency": 0.000213,
+        "Energy_keV": 0.5818,
+        "Line": "Lb1",
+        "Z": 24
+      },
+      {
+        "Efficiency": 0.00297,
+        "Energy_keV": 0.6538,
+        "Line": "Lb4",
+        "Z": 24
+      },
+      {
+        "Efficiency": 0.00297,
+        "Energy_keV": 0.6538,
+        "Line": "Lb3",
+        "Z": 24
+      },
+      {
+        "Efficiency": 0.98,
+        "Energy_keV": 5.293,
+        "Line": "Ka3",
+        "Z": 24
+      },
+      {
+        "Efficiency": 0.984,
+        "Energy_keV": 5.4052,
+        "Line": "Ka2",
+        "Z": 24
+      },
+      {
+        "Efficiency": 0.984,
+        "Energy_keV": 5.4149,
+        "Line": "Ka1",
+        "Z": 24
+      },
+      {
+        "Efficiency": 0.987,
+        "Energy_keV": 5.9468,
+        "Line": "Kb3",
+        "Z": 24
+      },
+      {
+        "Efficiency": 0.987,
+        "Energy_keV": 5.9468,
+        "Line": "Kb1",
+        "Z": 24
+      },
+      {
+        "Efficiency": 0.987,
+        "Energy_keV": 5.987,
+        "Line": "Kb5",
+        "Z": 24
+      }
+    ],
+    "line_widths": {
+      "Ka1": 1.34,
+      "Kb1": 2.2199999999999998
+    }
+  },
+  "Cu": {
+    "efficiency": [
+      {
+        "Efficiency": 0.0369,
+        "Energy_keV": 0.8102,
+        "Line": "Ll",
+        "Z": 29
+      },
+      {
+        "Efficiency": 0.0653,
+        "Energy_keV": 0.8298,
+        "Line": "Ln",
+        "Z": 29
+      },
+      {
+        "Efficiency": 0.105,
+        "Energy_keV": 0.9277,
+        "Line": "La2",
+        "Z": 29
+      },
+      {
+        "Efficiency": 0.105,
+        "Energy_keV": 0.9277,
+        "Line": "La1",
+        "Z": 29
+      },
+      {
+        "Efficiency": 0.156,
+        "Energy_keV": 0.9473,
+        "Line": "Lb1",
+        "Z": 29
+      },
+      {
+        "Efficiency": 0.215,
+        "Energy_keV": 1.0194,
+        "Line": "Lb4",
+        "Z": 29
+      },
+      {
+        "Efficiency": 0.215,
+        "Energy_keV": 1.0216,
+        "Line": "Lb3",
+        "Z": 29
+      },
+      {
+        "Efficiency": 0.993,
+        "Energy_keV": 7.8823,
+        "Line": "Ka3",
+        "Z": 29
+      },
+      {
+        "Efficiency": 0.994,
+        "Energy_keV": 8.0267,
+        "Line": "Ka2",
+        "Z": 29
+      },
+      {
+        "Efficiency": 0.994,
+        "Energy_keV": 8.0463,
+        "Line": "Ka1",
+        "Z": 29
+      },
+      {
+        "Efficiency": 0.992,
+        "Energy_keV": 8.9017,
+        "Line": "Kb3",
+        "Z": 29
+      },
+      {
+        "Efficiency": 0.992,
+        "Energy_keV": 8.9039,
+        "Line": "Kb1",
+        "Z": 29
+      },
+      {
+        "Efficiency": 0.992,
+        "Energy_keV": 8.974,
+        "Line": "Kb5",
+        "Z": 29
+      }
+    ],
+    "line_widths": {
+      "Ka1": 2.1,
+      "Kb1": 3.29
+    }
+  },
+  "Fe": {
+    "efficiency": [
+      {
+        "Efficiency": 0.000896,
+        "Energy_keV": 0.6155,
+        "Line": "Ll",
+        "Z": 26
+      },
+      {
+        "Efficiency": 0.00297,
+        "Energy_keV": 0.6286,
+        "Line": "Ln",
+        "Z": 26
+      },
+      {
+        "Efficiency": 0.00806,
+        "Energy_keV": 0.7048,
+        "Line": "La2",
+        "Z": 26
+      },
+      {
+        "Efficiency": 0.00806,
+        "Energy_keV": 0.7048,
+        "Line": "La1",
+        "Z": 26
+      },
+      {
+        "Efficiency": 0.0185,
+        "Energy_keV": 0.7179,
+        "Line": "Lb1",
+        "Z": 26
+      },
+      {
+        "Efficiency": 0.0369,
+        "Energy_keV": 0.7919,
+        "Line": "Lb4",
+        "Z": 26
+      },
+      {
+        "Efficiency": 0.0369,
+        "Energy_keV": 0.7919,
+        "Line": "Lb3",
+        "Z": 26
+      },
+      {
+        "Efficiency": 0.989,
+        "Energy_keV": 6.2674,
+        "Line": "Ka3",
+        "Z": 26
+      },
+      {
+        "Efficiency": 0.989,
+        "Energy_keV": 6.3921,
+        "Line": "Ka2",
+        "Z": 26
+      },
+      {
+        "Efficiency": 0.989,
+        "Energy_keV": 6.4052,
+        "Line": "Ka1",
+        "Z": 26
+      },
+      {
+        "Efficiency": 0.992,
+        "Energy_keV": 7.0593,
+        "Line": "Kb3",
+        "Z": 26
+      },
+      {
+        "Efficiency": 0.992,
+        "Energy_keV": 7.0593,
+        "Line": "Kb1",
+        "Z": 26
+      },
+      {
+        "Efficiency": 0.992,
+        "Energy_keV": 7.11,
+        "Line": "Kb5",
+        "Z": 26
+      }
+    ],
+    "line_widths": {
+      "Ka1": 1.6,
+      "Kb1": 2.4200000000000004
+    }
+  },
+  "Hg": {
+    "efficiency": [
+      {
+        "Efficiency": 0.732,
+        "Energy_keV": 1.7048,
+        "Line": "Mz",
+        "Z": 80
+      },
+      {
+        "Efficiency": 0.776,
+        "Energy_keV": 2.191,
+        "Line": "Ma",
+        "Z": 80
+      },
+      {
+        "Efficiency": 0.812,
+        "Energy_keV": 2.281,
+        "Line": "Mb",
+        "Z": 80
+      },
+      {
+        "Efficiency": 0.843,
+        "Energy_keV": 2.4882,
+        "Line": "Mg",
+        "Z": 80
+      },
+      {
+        "Efficiency": 0.992,
+        "Energy_keV": 8.722,
+        "Line": "Ll",
+        "Z": 80
+      },
+      {
+        "Efficiency": 0.975,
+        "Energy_keV": 9.899,
+        "Line": "La2",
+        "Z": 80
+      },
+      {
+        "Efficiency": 0.975,
+        "Energy_keV": 9.989,
+        "Line": "La1",
+        "Z": 80
+      },
+      {
+        "Efficiency": 0.954,
+        "Energy_keV": 10.647,
+        "Line": "Ln",
+        "Z": 80
+      },
+      {
+        "Efficiency": 0.921,
+        "Energy_keV": 11.4818,
+        "Line": "Lb6",
+        "Z": 80
+      },
+      {
+        "Efficiency": 0.921,
+        "Energy_keV": 11.56,
+        "Line": "Lb4",
+        "Z": 80
+      },
+      {
+        "Efficiency": 0.876,
+        "Energy_keV": 11.824,
+        "Line": "Lb1",
+        "Z": 80
+      },
+      {
+        "Efficiency": 0.876,
+        "Energy_keV": 11.9058,
+        "Line": "Lb2,15",
+        "Z": 80
+      },
+      {
+        "Efficiency": 0.876,
+        "Energy_keV": 11.992,
+        "Line": "Lb3",
+        "Z": 80
+      },
+      {
+        "Efficiency": 0.876,
+        "Energy_keV": 12.2744,
+        "Line": "Lb5",
+        "Z": 80
+      },
+      {
+        "Efficiency": 0.756,
+        "Energy_keV": 13.8308,
+        "Line": "Lg1",
+        "Z": 80
+      },
+      {
+        "Efficiency": 0.756,
+        "Energy_keV": 14.1588,
+        "Line": "Lg2",
+        "Z": 80
+      },
+      {
+        "Efficiency": 0.756,
+        "Energy_keV": 14.1994,
+        "Line": "Lg6",
+        "Z": 80
+      },
+      {
+        "Efficiency": 0.756,
+        "Energy_keV": 14.2624,
+        "Line": "Lg3",
+        "Z": 80
+      },
+      {
+        "Efficiency": 0.0283,
+        "Energy_keV": 68.263,
+        "Line": "Ka3",
+        "Z": 80
+      },
+      {
+        "Efficiency": 0.0283,
+        "Energy_keV": 68.893,
+        "Line": "Ka2",
+        "Z": 80
+      },
+      {
+        "Efficiency": 0.0283,
+        "Energy_keV": 70.818,
+        "Line": "Ka1",
+        "Z": 80
+      },
+      {
+        "Efficiency": 0.0242,
+        "Energy_keV": 79.823,
+        "Line": "Kb3",
+        "Z": 80
+      },
+      {
+        "Efficiency": 0.0242,
+        "Energy_keV": 80.255,
+        "Line": "Kb1",
+        "Z": 80
+      },
+      {
+        "Efficiency": 0.0242,
+        "Energy_keV": 80.717,
+        "Line": "Kb5",
+        "Z": 80
+      },
+      {
+        "Efficiency": 0.0226,
+        "Energy_keV": 82.4218,
+        "Line": "Kb2",
+        "Z": 80
+      },
+      {
+        "Efficiency": 0.0226,
+        "Energy_keV": 82.7238,
+        "Line": "Kb4",
+        "Z": 80
+      }
+    ],
+    "line_widths": {
+      "La1": 7.99,
+      "Lb1": 7.97,
+      "Lg1": 9.690000000000001,
+      "Ma": 2.59
+    }
+  },
+  "K": {
+    "efficiency": [
+      {
+        "Efficiency": 1.51e-28,
+        "Energy_keV": 0.2598,
+        "Line": "Ll",
+        "Z": 19
+      },
+      {
+        "Efficiency": 1.51e-28,
+        "Energy_keV": 0.2625,
+        "Line": "Ln",
+        "Z": 19
+      },
+      {
+        "Efficiency": 1e-13,
+        "Energy_keV": 0.3603,
+        "Line": "Lb4",
+        "Z": 19
+      },
+      {
+        "Efficiency": 1e-13,
+        "Energy_keV": 0.3603,
+        "Line": "Lb3",
+        "Z": 19
+      },
+      {
+        "Efficiency": 0.924,
+        "Energy_keV": 3.2298,
+        "Line": "Ka3",
+        "Z": 19
+      },
+      {
+        "Efficiency": 0.924,
+        "Energy_keV": 3.3111,
+        "Line": "Ka2",
+        "Z": 19
+      },
+      {
+        "Efficiency": 0.924,
+        "Energy_keV": 3.3138,
+        "Line": "Ka1",
+        "Z": 19
+      },
+      {
+        "Efficiency": 0.948,
+        "Energy_keV": 3.5901,
+        "Line": "Kb3",
+        "Z": 19
+      },
+      {
+        "Efficiency": 0.948,
+        "Energy_keV": 3.5901,
+        "Line": "Kb1",
+        "Z": 19
+      }
+    ],
+    "line_widths": {
+      "Ka1": 0.89,
+      "Kb1": 0.0
+    }
+  },
+  "Mn": {
+    "efficiency": [
+      {
+        "Efficiency": 0.000213,
+        "Energy_keV": 0.5564,
+        "Line": "Ll",
+        "Z": 25
+      },
+      {
+        "Efficiency": 0.000213,
+        "Energy_keV": 0.5676,
+        "Line": "Ln",
+        "Z": 25
+      },
+      {
+        "Efficiency": 0.00297,
+        "Energy_keV": 0.6367,
+        "Line": "La2",
+        "Z": 25
+      },
+      {
+        "Efficiency": 0.00297,
+        "Energy_keV": 0.6367,
+        "Line": "La1",
+        "Z": 25
+      },
+      {
+        "Efficiency": 0.00297,
+        "Energy_keV": 0.6479,
+        "Line": "Lb1",
+        "Z": 25
+      },
+      {
+        "Efficiency": 0.0185,
+        "Energy_keV": 0.7219,
+        "Line": "Lb4",
+        "Z": 25
+      },
+      {
+        "Efficiency": 0.0185,
+        "Energy_keV": 0.7219,
+        "Line": "Lb3",
+        "Z": 25
+      },
+      {
+        "Efficiency": 0.987,
+        "Energy_keV": 5.7699,
+        "Line": "Ka3",
+        "Z": 25
+      },
+      {
+        "Efficiency": 0.987,
+        "Energy_keV": 5.8891,
+        "Line": "Ka2",
+        "Z": 25
+      },
+      {
+        "Efficiency": 0.987,
+        "Energy_keV": 5.9003,
+        "Line": "Ka1",
+        "Z": 25
+      },
+      {
+        "Efficiency": 0.991,
+        "Energy_keV": 6.4918,
+        "Line": "Kb3",
+        "Z": 25
+      },
+      {
+        "Efficiency": 0.991,
+        "Energy_keV": 6.4918,
+        "Line": "Kb1",
+        "Z": 25
+      },
+      {
+        "Efficiency": 0.991,
+        "Energy_keV": 6.537,
+        "Line": "Kb5",
+        "Z": 25
+      }
+    ],
+    "line_widths": {
+      "Ka1": 1.4700000000000002,
+      "Kb1": 2.31
+    }
+  },
+  "Ni": {
+    "efficiency": [
+      {
+        "Efficiency": 0.0185,
+        "Energy_keV": 0.7419,
+        "Line": "Ll",
+        "Z": 28
+      },
+      {
+        "Efficiency": 0.0185,
+        "Energy_keV": 0.7592,
+        "Line": "Ln",
+        "Z": 28
+      },
+      {
+        "Efficiency": 0.0653,
+        "Energy_keV": 0.8487,
+        "Line": "La2",
+        "Z": 28
+      },
+      {
+        "Efficiency": 0.0653,
+        "Energy_keV": 0.8487,
+        "Line": "La1",
+        "Z": 28
+      },
+      {
+        "Efficiency": 0.0653,
+        "Energy_keV": 0.866,
+        "Line": "Lb1",
+        "Z": 28
+      },
+      {
+        "Efficiency": 0.156,
+        "Energy_keV": 0.9406,
+        "Line": "Lb4",
+        "Z": 28
+      },
+      {
+        "Efficiency": 0.156,
+        "Energy_keV": 0.9424,
+        "Line": "Lb3",
+        "Z": 28
+      },
+      {
+        "Efficiency": 0.992,
+        "Energy_keV": 7.3244,
+        "Line": "Ka3",
+        "Z": 28
+      },
+      {
+        "Efficiency": 0.993,
+        "Energy_keV": 7.463,
+        "Line": "Ka2",
+        "Z": 28
+      },
+      {
+        "Efficiency": 0.993,
+        "Energy_keV": 7.4803,
+        "Line": "Ka1",
+        "Z": 28
+      },
+      {
+        "Efficiency": 0.994,
+        "Energy_keV": 8.265,
+        "Line": "Kb3",
+        "Z": 28
+      },
+      {
+        "Efficiency": 0.994,
+        "Energy_keV": 8.2668,
+        "Line": "Kb1",
+        "Z": 28
+      },
+      {
+        "Efficiency": 0.994,
+        "Energy_keV": 8.329,
+        "Line": "Kb5",
+        "Z": 28
+      }
+    ],
+    "line_widths": {
+      "Ka1": 1.92,
+      "Kb1": 2.6899999999999995
+    }
+  },
+  "P": {
+    "efficiency": [
+      {
+        "Efficiency": 4.67e-155,
+        "Energy_keV": 0.123,
+        "Line": "Ll",
+        "Z": 15
+      },
+      {
+        "Efficiency": 4.67e-155,
+        "Energy_keV": 0.124,
+        "Line": "Ln",
+        "Z": 15
+      },
+      {
+        "Efficiency": 4.11e-64,
+        "Energy_keV": 0.182,
+        "Line": "Lb4",
+        "Z": 15
+      },
+      {
+        "Efficiency": 4.11e-64,
+        "Energy_keV": 0.183,
+        "Line": "Lb3",
+        "Z": 15
+      },
+      {
+        "Efficiency": 0.737,
+        "Energy_keV": 1.9565,
+        "Line": "Ka3",
+        "Z": 15
+      },
+      {
+        "Efficiency": 0.737,
+        "Energy_keV": 2.0095,
+        "Line": "Ka2",
+        "Z": 15
+      },
+      {
+        "Efficiency": 0.737,
+        "Energy_keV": 2.0105,
+        "Line": "Ka1",
+        "Z": 15
+      },
+      {
+        "Efficiency": 0.776,
+        "Energy_keV": 2.1385,
+        "Line": "Kb3",
+        "Z": 15
+      },
+      {
+        "Efficiency": 0.776,
+        "Energy_keV": 2.1395,
+        "Line": "Kb1",
+        "Z": 15
+      }
+    ],
+    "line_widths": {
+      "Ka1": 0.54,
+      "Kb1": 0.0
+    }
+  },
+  "Pb": {
+    "efficiency": [
+      {
+        "Efficiency": 0.775,
+        "Energy_keV": 1.8241,
+        "Line": "Mz",
+        "Z": 82
+      },
+      {
+        "Efficiency": 0.812,
+        "Energy_keV": 2.3423,
+        "Line": "Ma",
+        "Z": 82
+      },
+      {
+        "Efficiency": 0.843,
+        "Energy_keV": 2.4443,
+        "Line": "Mb",
+        "Z": 82
+      },
+      {
+        "Efficiency": 0.868,
+        "Energy_keV": 2.6538,
+        "Line": "Mg",
+        "Z": 82
+      },
+      {
+        "Efficiency": 0.987,
+        "Energy_keV": 9.184,
+        "Line": "Ll",
+        "Z": 82
+      },
+      {
+        "Efficiency": 0.954,
+        "Energy_keV": 10.449,
+        "Line": "La2",
+        "Z": 82
+      },
+      {
+        "Efficiency": 0.954,
+        "Energy_keV": 10.551,
+        "Line": "La1",
+        "Z": 82
+      },
+      {
+        "Efficiency": 0.921,
+        "Energy_keV": 11.349,
+        "Line": "Ln",
+        "Z": 82
+      },
+      {
+        "Efficiency": 0.876,
+        "Energy_keV": 12.1432,
+        "Line": "Lb6",
+        "Z": 82
+      },
+      {
+        "Efficiency": 0.876,
+        "Energy_keV": 12.307,
+        "Line": "Lb4",
+        "Z": 82
+      },
+      {
+        "Efficiency": 0.82,
+        "Energy_keV": 12.6007,
+        "Line": "Lb2,15",
+        "Z": 82
+      },
+      {
+        "Efficiency": 0.82,
+        "Energy_keV": 12.614,
+        "Line": "Lb1",
+        "Z": 82
+      },
+      {
+        "Efficiency": 0.82,
+        "Energy_keV": 12.795,
+        "Line": "Lb3",
+        "Z": 82
+      },
+      {
+        "Efficiency": 0.82,
+        "Energy_keV": 13.0143,
+        "Line": "Lb5",
+        "Z": 82
+      },
+      {
+        "Efficiency": 0.687,
+        "Energy_keV": 14.7657,
+        "Line": "Lg1",
+        "Z": 82
+      },
+      {
+        "Efficiency": 0.687,
+        "Energy_keV": 15.0991,
+        "Line": "Lg2",
+        "Z": 82
+      },
+      {
+        "Efficiency": 0.687,
+        "Energy_keV": 15.1793,
+        "Line": "Lg6",
+        "Z": 82
+      },
+      {
+        "Efficiency": 0.687,
+        "Energy_keV": 15.2175,
+        "Line": "Lg3",
+        "Z": 82
+      },
+      {
+        "Efficiency": 0.026,
+        "Energy_keV": 72.144,
+        "Line": "Ka3",
+        "Z": 82
+      },
+      {
+        "Efficiency": 0.026,
+        "Energy_keV": 72.805,
+        "Line": "Ka2",
+        "Z": 82
+      },
+      {
+        "Efficiency": 0.026,
+        "Energy_keV": 74.97,
+        "Line": "Ka1",
+        "Z": 82
+      },
+      {
+        "Efficiency": 0.0226,
+        "Energy_keV": 84.451,
+        "Line": "Kb3",
+        "Z": 82
+      },
+      {
+        "Efficiency": 0.0226,
+        "Energy_keV": 84.939,
+        "Line": "Kb1",
+        "Z": 82
+      },
+      {
+        "Efficiency": 0.0226,
+        "Energy_keV": 85.419,
+        "Line": "Kb5",
+        "Z": 82
+      },
+      {
+        "Efficiency": 0.0226,
+        "Energy_keV": 87.2431,
+        "Line": "Kb2",
+        "Z": 82
+      },
+      {
+        "Efficiency": 0.0213,
+        "Energy_keV": 87.5707,
+        "Line": "Kb4",
+        "Z": 82
+      }
+    ],
+    "line_widths": {
+      "La1": 8.55,
+      "Lb1": 7.5200000000000005,
+      "Lg1": 8.84,
+      "Ma": 2.71
+    }
+  },
+  "S": {
+    "efficiency": [
+      {
+        "Efficiency": 8.7e-97,
+        "Energy_keV": 0.1485,
+        "Line": "Ll",
+        "Z": 16
+      },
+      {
+        "Efficiency": 1.26e-94,
+        "Energy_keV": 0.1496,
+        "Line": "Ln",
+        "Z": 16
+      },
+      {
+        "Efficiency": 1.14e-39,
+        "Energy_keV": 0.2229,
+        "Line": "Lb4",
+        "Z": 16
+      },
+      {
+        "Efficiency": 1.14e-39,
+        "Energy_keV": 0.2239,
+        "Line": "Lb3",
+        "Z": 16
+      },
+      {
+        "Efficiency": 0.812,
+        "Energy_keV": 2.2411,
+        "Line": "Ka3",
+        "Z": 16
+      },
+      {
+        "Efficiency": 0.812,
+        "Energy_keV": 2.3084,
+        "Line": "Ka2",
+        "Z": 16
+      },
+      {
+        "Efficiency": 0.812,
+        "Energy_keV": 2.3095,
+        "Line": "Ka1",
+        "Z": 16
+      },
+      {
+        "Efficiency": 0.843,
+        "Energy_keV": 2.464,
+        "Line": "Kb3",
+        "Z": 16
+      },
+      {
+        "Efficiency": 0.843,
+        "Energy_keV": 2.465,
+        "Line": "Kb1",
+        "Z": 16
+      }
+    ],
+    "line_widths": {
+      "Ka1": 0.61
+    }
+  },
+  "Sb": {
+    "efficiency": [
+      {
+        "Efficiency": 2.35e-08,
+        "Energy_keV": 0.4419,
+        "Line": "Mz",
+        "Z": 51
+      },
+      {
+        "Efficiency": 3.83e-05,
+        "Energy_keV": 0.5282,
+        "Line": "Ma",
+        "Z": 51
+      },
+      {
+        "Efficiency": 3.83e-05,
+        "Energy_keV": 0.5375,
+        "Line": "Mb",
+        "Z": 51
+      },
+      {
+        "Efficiency": 0.0185,
+        "Energy_keV": 0.7343,
+        "Line": "Mg",
+        "Z": 51
+      },
+      {
+        "Efficiency": 0.924,
+        "Energy_keV": 3.192,
+        "Line": "Ll",
+        "Z": 51
+      },
+      {
+        "Efficiency": 0.937,
+        "Energy_keV": 3.44,
+        "Line": "Ln",
+        "Z": 51
+      },
+      {
+        "Efficiency": 0.948,
+        "Energy_keV": 3.5945,
+        "Line": "La2",
+        "Z": 51
+      },
+      {
+        "Efficiency": 0.948,
+        "Energy_keV": 3.6038,
+        "Line": "La1",
+        "Z": 51
+      },
+      {
+        "Efficiency": 0.957,
+        "Energy_keV": 3.8425,
+        "Line": "Lb1",
+        "Z": 51
+      },
+      {
+        "Efficiency": 0.957,
+        "Energy_keV": 3.8853,
+        "Line": "Lb4",
+        "Z": 51
+      },
+      {
+        "Efficiency": 0.957,
+        "Energy_keV": 3.9316,
+        "Line": "Lb3",
+        "Z": 51
+      },
+      {
+        "Efficiency": 0.957,
+        "Energy_keV": 3.9788,
+        "Line": "Lb6",
+        "Z": 51
+      },
+      {
+        "Efficiency": 0.965,
+        "Energy_keV": 4.0987,
+        "Line": "Lb2,15",
+        "Z": 51
+      },
+      {
+        "Efficiency": 0.971,
+        "Energy_keV": 4.3467,
+        "Line": "Lg1",
+        "Z": 51
+      },
+      {
+        "Efficiency": 0.971,
+        "Energy_keV": 4.6024,
+        "Line": "Lg2",
+        "Z": 51
+      },
+      {
+        "Efficiency": 0.971,
+        "Energy_keV": 4.6024,
+        "Line": "Lg3",
+        "Z": 51
+      },
+      {
+        "Efficiency": 0.224,
+        "Energy_keV": 25.793,
+        "Line": "Ka3",
+        "Z": 51
+      },
+      {
+        "Efficiency": 0.224,
+        "Energy_keV": 26.111,
+        "Line": "Ka2",
+        "Z": 51
+      },
+      {
+        "Efficiency": 0.191,
+        "Energy_keV": 26.359,
+        "Line": "Ka1",
+        "Z": 51
+      },
+      {
+        "Efficiency": 0.162,
+        "Energy_keV": 29.6783,
+        "Line": "Kb3",
+        "Z": 51
+      },
+      {
+        "Efficiency": 0.162,
+        "Energy_keV": 29.7246,
+        "Line": "Kb1",
+        "Z": 51
+      },
+      {
+        "Efficiency": 0.162,
+        "Energy_keV": 29.9535,
+        "Line": "Kb5",
+        "Z": 51
+      },
+      {
+        "Efficiency": 0.138,
+        "Energy_keV": 30.3954,
+        "Line": "Kb2",
+        "Z": 51
+      },
+      {
+        "Efficiency": 0.138,
+        "Energy_keV": 30.4577,
+        "Line": "Kb4",
+        "Z": 51
+      }
+    ],
+    "line_widths": {
+      "Ka1": 11.73,
+      "Kb1": 12.799999999999999
+    }
+  },
+  "Si": {
+    "efficiency": [
+      {
+        "Efficiency": 7.65e-09,
+        "Energy_keV": 0.09119999,
+        "Line": "Ll",
+        "Z": 14
+      },
+      {
+        "Efficiency": 7.65e-09,
+        "Energy_keV": 0.0918,
+        "Line": "Ln",
+        "Z": 14
+      },
+      {
+        "Efficiency": 2.97e-100,
+        "Energy_keV": 0.1477,
+        "Line": "Lb4",
+        "Z": 14
+      },
+      {
+        "Efficiency": 2.97e-100,
+        "Energy_keV": 0.1477,
+        "Line": "Lb3",
+        "Z": 14
+      },
+      {
+        "Efficiency": 0.684,
+        "Energy_keV": 1.6893,
+        "Line": "Ka3",
+        "Z": 14
+      },
+      {
+        "Efficiency": 0.732,
+        "Energy_keV": 1.7392,
+        "Line": "Ka2",
+        "Z": 14
+      },
+      {
+        "Efficiency": 0.732,
+        "Energy_keV": 1.7398,
+        "Line": "Ka1",
+        "Z": 14
+      },
+      {
+        "Efficiency": 0.777,
+        "Energy_keV": 1.837,
+        "Line": "Kb3",
+        "Z": 14
+      },
+      {
+        "Efficiency": 0.777,
+        "Energy_keV": 1.837,
+        "Line": "Kb1",
+        "Z": 14
+      }
+    ],
+    "line_widths": {
+      "Ka1": 0.48000000000000004,
+      "Kb1": 0.0
+    }
+  },
+  "Sn": {
+    "efficiency": [
+      {
+        "Efficiency": 3.09e-09,
+        "Energy_keV": 0.4096,
+        "Line": "Mz",
+        "Z": 50
+      },
+      {
+        "Efficiency": 0.00806,
+        "Energy_keV": 0.6907,
+        "Line": "Mg",
+        "Z": 50
+      },
+      {
+        "Efficiency": 0.908,
+        "Energy_keV": 3.0443,
+        "Line": "Ll",
+        "Z": 50
+      },
+      {
+        "Efficiency": 0.924,
+        "Energy_keV": 3.2713,
+        "Line": "Ln",
+        "Z": 50
+      },
+      {
+        "Efficiency": 0.937,
+        "Energy_keV": 3.4358,
+        "Line": "La2",
+        "Z": 50
+      },
+      {
+        "Efficiency": 0.937,
+        "Energy_keV": 3.4441,
+        "Line": "La1",
+        "Z": 50
+      },
+      {
+        "Efficiency": 0.948,
+        "Energy_keV": 3.6628,
+        "Line": "Lb1",
+        "Z": 50
+      },
+      {
+        "Efficiency": 0.948,
+        "Energy_keV": 3.7085,
+        "Line": "Lb4",
+        "Z": 50
+      },
+      {
+        "Efficiency": 0.948,
+        "Energy_keV": 3.7504,
+        "Line": "Lb3",
+        "Z": 50
+      },
+      {
+        "Efficiency": 0.957,
+        "Energy_keV": 3.7919,
+        "Line": "Lb6",
+        "Z": 50
+      },
+      {
+        "Efficiency": 0.957,
+        "Energy_keV": 3.9041,
+        "Line": "Lb2,15",
+        "Z": 50
+      },
+      {
+        "Efficiency": 0.965,
+        "Energy_keV": 4.1311,
+        "Line": "Lg1",
+        "Z": 50
+      },
+      {
+        "Efficiency": 0.971,
+        "Energy_keV": 4.3814,
+        "Line": "Lg2",
+        "Z": 50
+      },
+      {
+        "Efficiency": 0.971,
+        "Energy_keV": 4.3814,
+        "Line": "Lg3",
+        "Z": 50
+      },
+      {
+        "Efficiency": 0.224,
+        "Energy_keV": 24.735,
+        "Line": "Ka3",
+        "Z": 50
+      },
+      {
+        "Efficiency": 0.224,
+        "Energy_keV": 25.044,
+        "Line": "Ka2",
+        "Z": 50
+      },
+      {
+        "Efficiency": 0.224,
+        "Energy_keV": 25.271,
+        "Line": "Ka1",
+        "Z": 50
+      },
+      {
+        "Efficiency": 0.162,
+        "Energy_keV": 28.4435,
+        "Line": "Kb3",
+        "Z": 50
+      },
+      {
+        "Efficiency": 0.162,
+        "Energy_keV": 28.4854,
+        "Line": "Kb1",
+        "Z": 50
+      },
+      {
+        "Efficiency": 0.162,
+        "Energy_keV": 28.7068,
+        "Line": "Kb5",
+        "Z": 50
+      },
+      {
+        "Efficiency": 0.162,
+        "Energy_keV": 29.1164,
+        "Line": "Kb2",
+        "Z": 50
+      },
+      {
+        "Efficiency": 0.162,
+        "Energy_keV": 29.1751,
+        "Line": "Kb4",
+        "Z": 50
+      }
+    ],
+    "line_widths": {
+      "Ka1": 10.959999999999999,
+      "Kb1": 11.83
+    }
+  },
+  "Ti": {
+    "efficiency": [
+      {
+        "Efficiency": 8.61e-10,
+        "Energy_keV": 0.3951,
+        "Line": "Ll",
+        "Z": 22
+      },
+      {
+        "Efficiency": 2.27e-09,
+        "Energy_keV": 0.4015,
+        "Line": "Ln",
+        "Z": 22
+      },
+      {
+        "Efficiency": 4.28e-07,
+        "Energy_keV": 0.4518,
+        "Line": "La2",
+        "Z": 22
+      },
+      {
+        "Efficiency": 4.28e-07,
+        "Energy_keV": 0.4518,
+        "Line": "La1",
+        "Z": 22
+      },
+      {
+        "Efficiency": 4.28e-07,
+        "Energy_keV": 0.4582,
+        "Line": "Lb1",
+        "Z": 22
+      },
+      {
+        "Efficiency": 3.83e-05,
+        "Energy_keV": 0.5283,
+        "Line": "Lb4",
+        "Z": 22
+      },
+      {
+        "Efficiency": 3.83e-05,
+        "Energy_keV": 0.5283,
+        "Line": "Lb3",
+        "Z": 22
+      },
+      {
+        "Efficiency": 0.971,
+        "Energy_keV": 4.4051,
+        "Line": "Ka3",
+        "Z": 22
+      },
+      {
+        "Efficiency": 0.971,
+        "Energy_keV": 4.5058,
+        "Line": "Ka2",
+        "Z": 22
+      },
+      {
+        "Efficiency": 0.971,
+        "Energy_keV": 4.5122,
+        "Line": "Ka1",
+        "Z": 22
+      },
+      {
+        "Efficiency": 0.976,
+        "Energy_keV": 4.9334,
+        "Line": "Kb3",
+        "Z": 22
+      },
+      {
+        "Efficiency": 0.976,
+        "Energy_keV": 4.9334,
+        "Line": "Kb1",
+        "Z": 22
+      },
+      {
+        "Efficiency": 0.98,
+        "Energy_keV": 4.964,
+        "Line": "Kb5",
+        "Z": 22
+      }
+    ],
+    "line_widths": {
+      "Ka1": 1.14,
+      "Kb1": 2.09
+    }
+  },
+  "Zn": {
+    "efficiency": [
+      {
+        "Efficiency": 0.0,
+        "Energy_keV": 0.0092,
+        "Line": "Mz",
+        "Z": 30
+      },
+      {
+        "Efficiency": 0.105,
+        "Energy_keV": 0.882,
+        "Line": "Ll",
+        "Z": 30
+      },
+      {
+        "Efficiency": 0.105,
+        "Energy_keV": 0.9051,
+        "Line": "Ln",
+        "Z": 30
+      },
+      {
+        "Efficiency": 0.215,
+        "Energy_keV": 1.0116,
+        "Line": "La2",
+        "Z": 30
+      },
+      {
+        "Efficiency": 0.215,
+        "Energy_keV": 1.0117,
+        "Line": "La1",
+        "Z": 30
+      },
+      {
+        "Efficiency": 0.215,
+        "Energy_keV": 1.0347,
+        "Line": "Lb1",
+        "Z": 30
+      },
+      {
+        "Efficiency": 0.284,
+        "Energy_keV": 1.1048,
+        "Line": "Lb4",
+        "Z": 30
+      },
+      {
+        "Efficiency": 0.284,
+        "Energy_keV": 1.1076,
+        "Line": "Lb3",
+        "Z": 30
+      },
+      {
+        "Efficiency": 0.356,
+        "Energy_keV": 1.1952,
+        "Line": "Lg2",
+        "Z": 30
+      },
+      {
+        "Efficiency": 0.992,
+        "Energy_keV": 8.4628,
+        "Line": "Ka3",
+        "Z": 30
+      },
+      {
+        "Efficiency": 0.992,
+        "Energy_keV": 8.6141,
+        "Line": "Ka2",
+        "Z": 30
+      },
+      {
+        "Efficiency": 0.992,
+        "Energy_keV": 8.6372,
+        "Line": "Ka1",
+        "Z": 30
+      },
+      {
+        "Efficiency": 0.987,
+        "Energy_keV": 9.567599,
+        "Line": "Kb3",
+        "Z": 30
+      },
+      {
+        "Efficiency": 0.987,
+        "Energy_keV": 9.5704,
+        "Line": "Kb1",
+        "Z": 30
+      },
+      {
+        "Efficiency": 0.987,
+        "Energy_keV": 9.6488,
+        "Line": "Kb5",
+        "Z": 30
+      }
+    ],
+    "line_widths": {
+      "Ka1": 2.3,
+      "Kb1": 3.77
+    }
+  }
+}
